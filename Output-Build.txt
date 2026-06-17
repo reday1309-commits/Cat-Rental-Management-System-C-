@@ -1,0 +1,6 @@
+﻿Build started at 1:07 AM...
+1>------ Build started: Project: car rental 6, Configuration: Debug x64 ------
+1>  car rental 6.cpp
+1>LINK : fatal error LNK1168: cannot open C:\Users\MH\source\repos\car rental 6\x64\Debug\car rental 6.exe for writing
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 1:07 AM and took 01.566 seconds ==========
